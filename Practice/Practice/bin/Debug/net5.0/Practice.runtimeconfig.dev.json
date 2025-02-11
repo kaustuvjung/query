@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Softech Infosys\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Softech Infosys\\.nuget\\packages"
+    ]
+  }
+}

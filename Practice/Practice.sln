@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{42C9975C-2A5B-4E0B-A005-ABB619D3C3FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{AE27A99B-566C-4795-95DF-F38EB53C4452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{D5595AE0-8FBB-40AA-9ABB-45EB8EEE26CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C9975C-2A5B-4E0B-A005-ABB619D3C3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C9975C-2A5B-4E0B-A005-ABB619D3C3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C9975C-2A5B-4E0B-A005-ABB619D3C3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C9975C-2A5B-4E0B-A005-ABB619D3C3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE27A99B-566C-4795-95DF-F38EB53C4452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE27A99B-566C-4795-95DF-F38EB53C4452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE27A99B-566C-4795-95DF-F38EB53C4452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE27A99B-566C-4795-95DF-F38EB53C4452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5595AE0-8FBB-40AA-9ABB-45EB8EEE26CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5595AE0-8FBB-40AA-9ABB-45EB8EEE26CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5595AE0-8FBB-40AA-9ABB-45EB8EEE26CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5595AE0-8FBB-40AA-9ABB-45EB8EEE26CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DA62A2-5981-4F49-9A64-DED21631EC87}
+	EndGlobalSection
+EndGlobal
